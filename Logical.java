@@ -7,3 +7,5 @@ public class Logical{
         System.out.println( !(3>1) );
     }
 }
+
+
